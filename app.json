@@ -2,6 +2,10 @@
   "expo": {
     "name": "nucampsite1",
     "slug": "nucampsite1",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "sdkVersion": "51.0.0",
+    "plugins": [
+      "expo-secure-store"
+    ]
   }
 }
